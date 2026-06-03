@@ -1,2 +1,3 @@
-# git-practice-task
-This is my git assignment
+# Swaraj Kawade
+## Batch Name : MCA 7 Jan
+## Course Name : MCA
